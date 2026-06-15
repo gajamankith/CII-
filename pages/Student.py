@@ -6,3 +6,11 @@ CREATE TABLE students (
     phone TEXT
 );
 
+
+Pending Packages
+
+Delivered Packages
+
+Pickup QR Code
+
+OTP Status
